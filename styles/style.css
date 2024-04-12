@@ -16,7 +16,7 @@
 .menu__list {
   display: flex;
 }
-.header__menu-list {
+.header__menu__list {
   list-style: circle;
 }
 .menu__item {
@@ -26,13 +26,13 @@
   list-style: none;
   margin-left: 0;
 }
-.menu__item a.menu__item--active {
+.menu__item a.menu__item__active {
   border-width: 0;
 }
 .logo {
   margin: 2px 0 0 39px;
 }
-.logo-black {
+.logo__black {
   margin-left: 454px;
   width: 129px;
   height: 105px;
@@ -85,16 +85,16 @@
   margin-top: 20px;
   text-align: right;
 }
-.wide-spaced {
+.wide__spaced {
   letter-spacing: 0.6em;
 }
-.no-spaced {
+.no__spaced {
   letter-spacing: initial;
 }
-.slightly-spaced {
+.slightly__spaced {
   letter-spacing: 0.2px;
 }
-.dark-overlay:after {
+.dark__overlay:after {
   content: "";
   position: absolute;
   top: 0;
@@ -174,7 +174,7 @@
   font-size: 20px;
   line-height: 24px;
 }
-.lot__teaser--spaced {
+.lot__teaser__spaced {
   letter-spacing: 0.13em;
 }
 .lots__link {
@@ -182,13 +182,13 @@
   font-size: 20px;
   line-height: 23px;
 }
-.lot-film {
+.lot__film {
   background-image: url(/images/card-lot-01.jpg);
 }
-.lot-book {
+.lot__book {
   background-image: url(/images/card-lot-02.jpg);
 }
-.lot-art {
+.lot__art {
   background-image: url(/images/card-lot-03.jpg);
 }
 .description {
