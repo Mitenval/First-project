@@ -6,7 +6,6 @@
   width: 1052px;
   height: 105px;
 }
-
 .header__block {
   align-content: center;
 }
@@ -30,7 +29,6 @@
 .menu__item a.menu__item--active {
   border-width: 0;
 }
-
 .logo {
   margin: 2px 0 0 39px;
 }
@@ -39,7 +37,6 @@
   width: 129px;
   height: 105px;
 }
-
 .contacts {
   line-height: 24px;
   width: 240px;
@@ -52,7 +49,6 @@
   margin-top: 1px;
   margin-left: 1px;
 }
-
 .lotus {
   position: relative;
   background-image: url(/images/cover.jpg);
@@ -116,32 +112,6 @@
   bottom: 0;
   z-index: 1;
 }
-
-/*.subline-with-button {*/
-/*  margin-top: 136px;*/
-/*  margin-left: 77px;*/
-/*  font-weight: 400;*/
-/*  font-size: 22px;*/
-/*}*/
-/*.subline-2 {*/
-/*  margin-left: 20px;*/
-/*}*/
-/*.subline-3 {*/
-/*  margin-left: 18px;*/
-/*}*/
-/*.subline-4 {*/
-/*  margin-left: 18px;*/
-/*}*/
-/*.subline-5 {*/
-/*  margin-left: 18px;*/
-/*}*/
-/*.subline-6 {*/
-/*  margin-left: 19px;*/
-/*}*/
-/*.subline-7 {*/
-/*  margin-left: 18px;*/
-/*}*/
-
 .lotus__subline {
   margin: 135px 50px 0 78px;
   font-weight: 400;
@@ -150,11 +120,9 @@
   justify-content: space-between;
   align-items: center;
 }
-
 .lotus__subline p {
   word-spacing: 0.85em;
 }
-
 .lotus__subline__button {
   width: 256px;
   height: 51px;
@@ -164,7 +132,6 @@
   color: #ffffff;
   border: #ffffff solid 1px;
 }
-
 .lots {
   margin-top: 175px;
 }
@@ -180,7 +147,6 @@
   margin: 23px 24px 31px;
   justify-content: space-between;
 }
-
 .lot {
   position: relative;
   width: 334px;
@@ -215,7 +181,6 @@
   margin-left: 64px;
   font-size: 20px;
   line-height: 23px;
-
 }
 .lot-film {
   background-image: url(/images/card-lot-01.jpg);
@@ -259,7 +224,6 @@
 .description__text p {
   margin: 8px 0 24px;
 }
-
 footer {
   margin: 157px 50px 87px 50px;
   display: flex;
